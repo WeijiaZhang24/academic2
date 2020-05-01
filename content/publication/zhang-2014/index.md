@@ -5,7 +5,7 @@ publishDate: 2020-04-30T11:14:54.190638Z
 authors: ["Weijia Zhang", "Zhi-Hua Zhou"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence*"
 ---
 
