@@ -15,7 +15,7 @@ weight = 110
 
 +++
 
-I have served as program committee members and reviewers for academic journal and conferences, including:
-  - Program Committee Member: IJCAI-2020, ECAI-2020, AusDM-2018,2019, KDD Causal Discovery Workshop 2018,2019,2020, etc.
-  - Conference Reviewer: AAAI 2019/2018/2017, KDD-2019/2018/2017/2016, CKIM-2019/2018/2017/2016, WSDM-2019, etc.
+I serve as program committee members and reviewers for academic journal and conferences, including:
+  - Program Committee Member: IJCAI 2020, ECAI 2020, AusDM 2018-19, KDD Causal Discovery Workshop 2018-20, etc.
+  - Conference Reviewer: IJCAI 2017-19, AAAI 2017-19, KDD 2016-2019, CKIM 2016-19, WSDM 2018-19, etc.
   - Journal Reviewer: Bioinformatics, PLOS One, BMC Bioinformatics, Journal of Computer Science and Information Technology, Journal on Wireless Communications and Networking, etc.
